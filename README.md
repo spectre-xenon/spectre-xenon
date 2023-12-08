@@ -1,4 +1,4 @@
-![cool pic here](https://raw.githubusercontent.com/spectre-xenon/spectre-xenon/main/kurz.png)
+![cool pic here](https://raw.githubusercontent.com/spectre-xenon/spectre-xenon/main/kurz%20(1).png)
 _____________________________
 Fueled by a continuous learning mindset, I'm an aspiring web developer passionate about crafting user-centric and visually impactful web applications. My expertise lies in HTML, CSS, and JavaScript, but my thirst for knowledge keeps me constantly exploring the ever-evolving tech landscape.
 
